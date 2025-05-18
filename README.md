@@ -1,1 +1,1 @@
-# This repositary includes programs in python where i implemented dynamic linear data structures based on my understanding. Feel free be a critique as learning is undergone thorugh understanding various perspectives.
+# This repositary includes programs in python where i implemented dynamic linear data structures based on my understanding. Feel free to be a critique as learning is undergone thorugh understanding various perspectives.
