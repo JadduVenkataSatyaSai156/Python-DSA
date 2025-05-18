@@ -1,2 +1,1 @@
-# Python-DSA
-It includes programs in python showcasing applications of data structures
+# This repositary includes programs in python where i implemented dynamic linear data structures based on my understanding. Feel free be a critique as learning is undergone thorugh understanding various perspectives.
